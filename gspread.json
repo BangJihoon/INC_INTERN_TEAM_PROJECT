@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "watchful-bonus-227202",
+  "private_key_id": "e1b6b9fe38ce20ab2eeb1c40a47f4f26fb013b48",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDf1gaYG9monWaD\nkMV6UKj9dswfJQiwmCPPoEBgVzA+OzCPV7m9wrUyQejKgG9hNT1uHUAKXe44pEKY\noJGpxlKDJXMq/T0zDoQEthUn7noLwXUNJrcJCG+kwBDQSn2RlceqJux59MZTzbZG\nBvDbFylk7NnKWp7v36rwecXyhXIngbsXJfZeO3SEbFaJhQd32+RrM/LswBdtPw1r\nLql6ih7Qp2DobyTkTdglHPKtdDiW+kFmck1N8DKgb9UKA8Eh7ke1M0JW2ALaBNZu\nrX3rNj/HDWYfUZxwhXHFY0kfQs0qBR2XvikkKZuyYRC+cixNFxs6X0NcabsC4RnT\nT1huCF/ZAgMBAAECggEAMZIKuk96o8id7heW4EhyMFXJjUEsnD1JOv88molcjf+a\nOLh/EjsHWUa26PfKEs9RWCxCpTkZm3InLHls4NoiplgaGgRktASsMIXpiAMchLN2\nem/fO7EiVmxRnOtORTpUMka1+qk+bctCKV56oy6NNIRulA1/ItTYHLL/Jz8t4XkD\nv9a2ob/OkdvSZ89D29+G3YFu57RQac8PusPu9kObOU8LTTCOBP/T3O7Svedax953\nki8lE4stPUPIwFZuYavI0xE++F3Q+O+JwOB0MTP2u93SOsl9pxMxpmr6H2ulR+n2\nHsiZo7taAP1wDqedIGGQ5rvZiRCdsYgjgNUzsI/crQKBgQDxgbZ4nOoQptWWqehp\n/G3HbWQWo9TvMZxYW4YFnGFVa3iHVYjcl3Lhli/8nsqCkpGKQK27enmYUOc/NW6J\niWLhm9BHszUfr5aCriFg3vZUHXKEFh4wny2/IV6XlKFQaWv6RdjNQQgNnX90wVXk\nfPGalmxU87H+TuZDS5eogLKOfQKBgQDtRNZYj4w3rsmDQJJcHtWvuIA2FGn0Fk3j\nQUFT5WGNRY1zpn1UeWUlJ4w9+DmiEG8gyBGQ0Bplr/nJ3bdkZ5BlHlHbGqWKVqef\nT/UcCQhG2zUv0c/v3edirMGFbNfzh1FGIAPSZyVsKCS8a3ZfbBbJfIAj0v24z6hT\nIg8jY1uJjQKBgQC91NHTOLQbZqgZB3DybkL0MR4tVZX4diyIn1hXbLZtaE6TQj6T\n9k+M1nrdvQs9W2wfGfv1k62kdmNuoddDMMSSxeEPmuO1BlXuXmVKObeyIntzK9eL\nLHPO+rHZwDCUfmkrjl995xIncZdP9PBI65UViAubMvrEBMymNPL+tjqkGQKBgQC5\n37x/gm0ZTh9laFeAPVOvpj0ioJlkc3iu+HcCD2d9sagfmqUCYVuAYNv3zBbyRCea\nqcFBDhYv5U0s/DloOc2fucHsgJKArmQAZTYisVy/jYi8HoTkZ5WV8rpkGSGQEUj1\nQ61azh09/rDQvurr1BSB4bvM1MSZXGyEO+FaGsMiHQKBgE7FwEUF4wpFOn4gH3WK\n6qTNL63pTWq6nfR5k9D9xSJeALvH3GyV+B5eUZj5vm6PncbWTzWXzXdY97cuDBBG\nq0I09p0AlWBnDTi/GSfA+5i8DCtpSqUqeJ8kTsNFmZsnxQ00+5Bp0O4m99FIJ8+v\n+VJ+YQ+YG6QXOuNulcz0LKCy\n-----END PRIVATE KEY-----\n",
+  "client_email": "gspread@watchful-bonus-227202.iam.gserviceaccount.com",
+  "client_id": "108996193590808259812",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gspread%40watchful-bonus-227202.iam.gserviceaccount.com"
+}
